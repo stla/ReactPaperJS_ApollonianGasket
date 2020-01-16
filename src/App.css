@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+#root {
+  margin-left: 20px;
+}
+
+canvas {
+  width: 500px;
+  height: 500px;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.vtop {
+  vertical-align: top;
+}
